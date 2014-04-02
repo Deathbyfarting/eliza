@@ -9,6 +9,8 @@ http://chayden.net/eliza/Eliza.html
 2) Processing Library Template:
 https://github.com/processing/processing-library-template
 
+3) All credit goes to eliza's creator and all who edited it befor me
+
 INSTRUCTIONS
 
 The library is easy to use. Just import it, and then create an Eliza object:
